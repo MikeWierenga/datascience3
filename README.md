@@ -14,7 +14,7 @@ The reason for this is to try and understand what is the book about before actua
 The chapters are separated to get an idea of what each chapter is about.
 
 ### week 3
-TODO
+In week 3 I tried to configure the best anomly detection method using gridsearchcv.
 
 ## Supervised
 The supervised machine learning assignments are mostly about the models that can be used and the evaluation of the models. The dataset is always the same. 
